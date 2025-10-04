@@ -16,3 +16,6 @@ It includes HTML,IMAGE,and JavaScript
 - If email contains `@`, shows success alert
 - Otherwise, shows error alert
 
+## Host Link
+https://jayjay1010.github.io/hw1-homework/
+
